@@ -27,3 +27,4 @@ class crud:
             return "ok"
         except Exception as e:
             return str(e)
+        
